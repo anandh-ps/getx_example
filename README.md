@@ -1,16 +1,27 @@
-# getx_text_change
+# My Flutter App
 
-GetX example for change text values
+Sample project for Getx State Management
+
+## Description
+
+This Flutter app showcases various features and functionalities.
+
+## Screenshots
+
+![Screenshot 1](screenshots/img1.png)
+![Screenshot 2](screenshots/img2.png)
+
+## Features
+
+- Feature 1: How to change the text's value using GetX
+- Feature 2: How to refresh a list using Getx - update() method
+- Feature 3: How to refresh a list using Getx - Obx() method
+- Feature 4: How to remove an item from a list using GetX
+- Feature 5: LazyLoading using Getx
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the repository:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   ```shell
+   git clone https://github.com/anandh-ps/getx_example
