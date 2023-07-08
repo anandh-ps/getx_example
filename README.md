@@ -1,15 +1,18 @@
-# My Flutter App
+# GetX Example
 
 Sample project for Getx State Management
 
 ## Description
 
-This Flutter app showcases various features and functionalities.
+This Flutter app showcases stage management using GetX
 
 ## Screenshots
 
-![Screenshot 1](screenshots/img1.png)
-![Screenshot 2](screenshots/img2.png)
+<p align="center">
+  <img src="screenshots/img1.png" alt="Screenshot 1" width="300" height="600">
+  <img src="screenshots/img2.png" alt="Screenshot 2" width="300" height="600">
+</p>
+
 
 ## Features
 
